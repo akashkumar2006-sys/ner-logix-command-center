@@ -34,8 +34,8 @@ export const DISTRICTS: District[] = [
   { id: "e-khasi", name: "East Khasi Hills", state: "Meghalaya", x: 30, y: 68, risk: "high" },
   { id: "w-khasi", name: "West Khasi Hills", state: "Meghalaya", x: 19, y: 65, risk: "moderate" },
   { id: "e-jaintia", name: "East Jaintia Hills", state: "Meghalaya", x: 42, y: 70, risk: "blocked" },
-  { id: "w-garo", name: "West Garo Hills", state: "Meghalaya", x: 7, y: 60, risk: "safe" },
-  { id: "sw-garo", name: "South West Garo Hills", state: "Meghalaya", x: 5, y: 71, risk: "moderate" },
+  { id: "w-garo", name: "West Garo Hills", state: "Meghalaya", x: 12, y: 58, risk: "safe" },
+  { id: "sw-garo", name: "South West Garo Hills", state: "Meghalaya", x: 12, y: 72, risk: "moderate" },
 ];
 
 export interface MapVehicle {
